@@ -27,4 +27,4 @@ This script is released under the MIT License. See LICENSE for more details.
 
 ## Authors
 
-This script was created by [Salim J.]. If you have any questions or feedback, please feel free to contact me at [nerd( at )yahoo DOT com.
+This script was created by [Salim J.]. If you have any questions or feedback, please feel free to contact me at [nerd( at )yahoo DOT com.]
