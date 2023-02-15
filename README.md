@@ -11,7 +11,7 @@ This script requires Python 3 and a Linux system with the `crontab` command inst
 
 1. Open a terminal and navigate to the directory where the script is saved.
 
-2. Run the script using the command `python3 cron_job_creation_wizard.py`.
+2. Run the script using the command `python3 cronzy.py`.
 
 3. Follow the prompts to enter the details of the cron jobs to be created.
 
